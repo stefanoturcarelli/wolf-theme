@@ -21,6 +21,11 @@
 	"engines": {
 		"vscode": "^1.60.0"
 	},
+	"editor.rulers": [80],
+  "workbench.colorCustomizations": {
+    "editorRuler.foreground": "#bec37980",
+    "tab.activeBackground": "#02441085"
+  },
 	"colors": {
 		"editor.background": "#373e47",
 		"editor.foreground": "#eeffff",
