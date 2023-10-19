@@ -4,13 +4,8 @@
 	"description": "A dark theme for VS Code.",
 	"version": "1.0.0",
 	"publisher": "stefanot",
-	"engines": {
-		"vscode": "^1.60.0"
-	},
-	"categories": ["Themes"],
-  "icon": "icon.png",
   "repository": {
-    "type": "git",
+		"type": "git",
     "url": "https://github.com/stefanoturcarelli/wolf-theme"
   },
 	"keywords": [
@@ -23,6 +18,9 @@
 		"wolf theme",
 		"wolf theme dark",
 	],
+	"engines": {
+		"vscode": "^1.60.0"
+	},
 	"colors": {
 		"editor.background": "#373e47",
 		"editor.foreground": "#eeffff",
