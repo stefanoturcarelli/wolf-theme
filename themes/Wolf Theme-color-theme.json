@@ -3,7 +3,7 @@
 	"displayName": "Wolf Theme Dark",
 	"description": "A dark theme for VS Code.",
 	"version": "1.0.0",
-	"publisher": "Stefano",
+	"publisher": "stefanot",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/stefanoturcarelli/wolf-theme"
