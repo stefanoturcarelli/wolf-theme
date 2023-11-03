@@ -23,6 +23,10 @@ To install Wolf Theme Dark, follow these simple steps:
 5. Click "Reload" to apply the theme.
 6. From the menu bar, go to "File" > "Preferences" > "Color Theme" and select "Wolf Theme Dark."
 
+## VSCode Marketplace
+
+[https://marketplace.visualstudio.com/items?itemName=stefanot.wolf-theme](https://marketplace.visualstudio.com/items?itemName=stefanot.wolf-theme)
+
 ## Feedback
 
 Your feedback is valuable! If you encounter any issues or have suggestions for improvements, please create an issue on the [GitHub repository](https://github.com/stefanoturcarelli/wolf-theme).
